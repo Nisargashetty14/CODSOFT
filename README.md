@@ -8,38 +8,52 @@ Task 1 Screenshot:
 
 
 
-Task 2: Creating a personal portfolio using CSS and HTML is a popular beginner web development project. 
+
+
+
+
+
+
+
+Task 2: Creating a personal portfolio using CSS and HTML is a popular beginner web development project.
 Header Section: Add name or a logo at the top.Optionally, include a brief introduction or tagline.
 
-Screenshot:
+Header Section Screenshot:
 
 ![head](https://github.com/user-attachments/assets/035982e4-0ff6-415c-9433-c110176d1312)
 
 About Section: Insert an image. Write a short bio highlighting skills and experience. 
 Resume Section: Provide a link to download your resume in PDF format. 
 
-Screenshot:
+About and Resume Section Screenshot:
 
 ![about-resume](https://github.com/user-attachments/assets/3fb81aa1-a539-44f0-a4aa-fe83e1dd57f8)
 
 Projects Section: Showcase samples of work or projects. Include project titles, descriptions, and images. 
 
-Screenshot:
+Project Section Screenshot:
 
 ![project](https://github.com/user-attachments/assets/26753202-a719-4264-a04e-cfd122bbcd41)
 
 Skills Section: List key skills or areas of expertise. 
 
-Screenshot:
+Skills Section Screenshot:
 
 ![skills](https://github.com/user-attachments/assets/b680025d-af75-4b9d-94ce-d0cac762699b)
 
-Contact Section: Include contact information, such as email address and phone
-number. Footer: Add a copyright notice and any additional links or information.
+Contact Section: Include contact information, such as email address and phone number. 
+Footer: Add a copyright notice and any additional links or information.
 
-Screenshot:
+Contact and Footer Section Screenshot:
 
 ![contact-footer](https://github.com/user-attachments/assets/d2b28d89-59eb-46c9-96ab-574ff9908006)
+
+
+
+
+
+
+
 
 
 
@@ -48,5 +62,8 @@ Task 3: To create a basic calculator using CSS, HTML, and JavaScript, I have imp
 Task 3 Screenshot:
 
 ![cal](https://github.com/user-attachments/assets/dd3aa9cc-6921-44fe-b6fd-31f270c6a2d1)
+
+
+
 
 
